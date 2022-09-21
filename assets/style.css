@@ -15,11 +15,18 @@
 
 .header ul li {
     list-style-type:none;
-    position:auto;
-    text-align:center;
+    text-align: center;
+    margin-left: -35px;
+    padding-left: -35px;
 }
 
 img {
     margin:auto;
     display: block;
+    width: 100px;
+    height:100px;
+}
+
+.Form {
+    text-align: center;
 }
