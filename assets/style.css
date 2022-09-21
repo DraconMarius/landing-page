@@ -1,11 +1,25 @@
 * {
-    background-color: rgb(34, 33, 33);
-    font-family: 'Comic Sans';
+    background-color: rgb(106, 106, 106);
+    font-family: 'Times New Roman';
     color: white;
 }
 
-.header ul li h1{
+.header {
+    border-top: 8px Solid rgba(254, 193, 12, 0.968);
+    border-bottom: 10px Solid rgba(254, 193, 12, 0.968);
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.header ul li {
     list-style-type:none;
     position:auto;
     text-align:center;
+}
+
+img {
+    margin:auto;
+    display: block;
 }
