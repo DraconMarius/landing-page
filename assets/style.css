@@ -1,0 +1,11 @@
+* {
+    background-color: rgb(34, 33, 33);
+    font-family: 'Comic Sans';
+    color: white;
+}
+
+.header ul li h1{
+    list-style-type:none;
+    position:auto;
+    text-align:center;
+}
